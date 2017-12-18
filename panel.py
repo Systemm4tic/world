@@ -20,6 +20,7 @@ class Panel():
         pass
 
     def drawBackground(self):
+        # Draw grey background
         self.background.draw()
 
 POS_LEFT = 1
